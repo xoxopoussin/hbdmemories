@@ -1,4 +1,4 @@
-* {
+*  {
   box-sizing: border-box;
 }
 
@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 450px 0 100px 0;
-  background-image: url(background.jpeg);
+  background-image: url(couple2.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -142,9 +142,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #ff1493;
+  background-color: #9966FF;
   cursor: pointer;
-  box-shadow: 0 7px #c71585;
+  box-shadow: 0 7px #96c;
 }
 
 .message:active {
@@ -198,4 +198,6 @@ footer {
   font-size: 20px;
   text-align: left;
 }
+
+
 
